@@ -1,5 +1,5 @@
 # Learn-With-Me
-his repository contains coding Practice,assignments,and Hackerrank Practice notes 
+This repository contains coding Practice,assignments,and Hackerrank Practice notes 
 
 #  Assignments
 All the assignments are listed here - [Assignments](Assignments)
